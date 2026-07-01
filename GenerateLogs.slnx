@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Log4NetTxtLogger/Log4NetTxtLogger.csproj" />
+  <Project Path="Log4NetXmlLogger/Log4NetXmlLogger.csproj" />
+  <Project Path="SerilogJsonLogger/SerilogJsonLogger.csproj" />
+</Solution>
