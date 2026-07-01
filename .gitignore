@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+obj/
+
+# Log files generated at runtime
+logs/
+
+# User-specific files
+*.user
+*.suo
+.vs/
+
+# NuGet packages
+*.nupkg
